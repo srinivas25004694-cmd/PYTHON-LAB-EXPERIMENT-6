@@ -32,6 +32,10 @@ To write a Python program to perform basic dictionary operations such as accessi
 
 ## source code
 
+![Output 1](./5.1.png)
+
+## output
+![Output 1](./5.1.png)
 
 ## Program 2: Character Frequency
 
@@ -60,3 +64,11 @@ To write a Python program to find the frequency of each character in a given str
 
 10.Stop the program.
 
+## source code
+
+![Output 1](./5.1.png)
+
+
+## output
+
+![Output 1](./5.1.png)
