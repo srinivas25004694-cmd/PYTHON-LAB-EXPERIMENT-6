@@ -66,7 +66,7 @@ To write a Python program to find the frequency of each character in a given str
 
 ## source code
 
-![Output 1](./6.2.png)
+![Output 1](./6.1.png)
 
 
 ## output
